@@ -5,7 +5,7 @@ This Web app was built using Python and Flask.
 ## Requirements for running the app locally
 
 1.	Python – Version Used: Python 3.9.4
-2.	Next, you need a a virtual environment, in this case it was installed on the Project’s folder using the following commands
+2.	Next, you need a virtual environment, in this case it was installed on the Project’s folder using the following commands
 ```
 pip3 install virtualenv
 python -m venv myen
@@ -20,4 +20,9 @@ pip install flask
 ```
 flask run
 ```
-6.	You Will be able to see the app at http://127.0.0.1:5000/ 
+6.	You will be able to see the app at http://127.0.0.1:5000/
+
+##Video
+
+[![Weather App Video](https://img.youtube.com/vi/nXLOhRnPqM4/0.jpg)](https://www.youtube.com/watch?v=nXLOhRnPqM4)
+

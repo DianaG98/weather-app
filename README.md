@@ -22,7 +22,7 @@ flask run
 ```
 6.	You will be able to see the app at http://127.0.0.1:5000/
 
-##Video
+## Video
 
 [![Weather App Video](https://img.youtube.com/vi/nXLOhRnPqM4/0.jpg)](https://www.youtube.com/watch?v=nXLOhRnPqM4)
 

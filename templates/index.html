@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Weather App</title>
+  </head>
+  <body>
+    <h1>Welcome to the Weather App!</h1>
+    <p>Do you want to check the weather forecast for your next destination? The Weather App is the perfect option for you!</p>
+    <p>Just type the name of the City you are visiting and click Submit. Next, you will be able to compare the weather forecast for the next 5
+      days.</p>
+    <form action="{{url_for('weather')}}"method="POST">
+      <input type="text" name="city_name" placeholder="Enter city" />
+      <button type="submit">Submit</button>
+    </form>
+    <p><small><em>Powered by Reservamos API and OpenWeather's API</em></small></p>
+  </body>
+</html>
